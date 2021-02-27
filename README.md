@@ -1,7 +1,7 @@
 # SBU_elasticSearch
 SBU project for the course "Information Retrieval"
 
-The data used here is the top 100 news crawled from [this site](www.asriran.com)
+The data used here is the top 100 news crawled from [this site](https://www.asriran.com/)
 
 This code re-orders the results from searching query in the text, so that the order is as close as possible to the results from searching in the titles.
 
